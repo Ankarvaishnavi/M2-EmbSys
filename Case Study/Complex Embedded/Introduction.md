@@ -37,6 +37,6 @@ Such as Main board, interface module, power and power unit module.
 #### Power unit
 ##### - Low voltage approximately 3.2V, 5V, 15V
 ##### - High voltage 230 V
-## REQUREMENTS:
+
 
 
