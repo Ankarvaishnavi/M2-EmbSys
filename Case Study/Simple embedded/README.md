@@ -1,6 +1,7 @@
 ## Block Diagram
 ![FIRE BLOCK dia](https://user-images.githubusercontent.com/93757351/154833477-f6075c2b-b5b8-4cf8-9745-39f30f32dd05.JPG)
-## Introducton:This system gives better reliable security system against fire accidents. There are some sensors which senses fire. If the fire starts, motor turn on. If there is not firing then motor will kept off.
+## Introducton:
+This system gives better reliable security system against fire accidents. There are some sensors which senses fire. If the fire starts, motor turn on. If there is not firing then motor will kept off.
 
 ### Components Required
 ##### Microcontroller- Decision making
@@ -17,4 +18,13 @@
 ##### Relay
 ##### Buzzer
 ##### Flame sensors- Sensing fire and smoke
+
+## Requirements
+### High level requirements
+- Should detect the fire correctly
+- Motor should turn on and off according to the situation
+
+### Low level requirements
+- Sensors should use to detect fire and smoke
+
 
