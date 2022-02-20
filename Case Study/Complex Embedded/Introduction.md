@@ -15,6 +15,9 @@
 
 - Sensors, actuators and I/O devices are interfaced to the I/P sub-system of embedded control unit.
 - Once you prepare a particular microcontroller for particular task then it cannot be used in any other applications. That means the microcontroller that is used in washing machine cannot be used in any other applications.
+### UML Diagram
+![UML](https://user-images.githubusercontent.com/93757351/154840281-45c67ba9-cd24-411d-b5d7-d5b80f4f3621.JPG)
+
 ### Block diagram of washing controller
 ![Untitled Diagram (6)](https://user-images.githubusercontent.com/93757351/154830924-320d5f71-0366-4eb7-b7e6-9157d8710dff.jpg)
 
