@@ -13,6 +13,9 @@
 
 - Sensors, actuators and I/O devices are interfaced to the I/P sub-system of embedded control unit.
 - Once you prepare a particular microcontroller for particular task then it cannot be used in any other applications. That means the microcontroller that is used in washing machine cannot be used in any other applications.
+### Block diagram of washing controller
+![Untitled Diagram (6)](https://user-images.githubusercontent.com/93757351/154830924-320d5f71-0366-4eb7-b7e6-9157d8710dff.jpg)
+
 
 ## COMPONENTS
 In this washing machine various components can be used. These components can be divided into different modules.
@@ -22,7 +25,7 @@ Such as Main board, interface module, power and power unit module.
 ##### Input sensors - These sensors provides real-time monitoring and feedback to shorteen or improve some functions
 ##### USB Module - All modules communicate using serial communication network. It enables fast connection of the sensors to the computer. It provides power from the PC to the sensors and communication between the PC and sensors
 ##### RS485 Communication: RS485 defines the electrical interface and physical layer of communication of electrical device
-##### EPROM (washing program) - It is erasable programmable read only memory. It's a form ofcomputer memory that does not lose its content when the power supply cut off and that can be erased and reused.
+##### EEPROM (washing program) - It is electrically erasable programmable read only memory. It is user modifiable read only memory that can be erased and reprogrammed.
 ##### Buzzer - The buzzer is used as an indicator for starting as well as stopping of washing cycle.
 #### Interface section 
 ##### There are two types of interfaces 1. Input 2. Output. It also can be common washing machine interface or also be a touch screen containing different options for program
