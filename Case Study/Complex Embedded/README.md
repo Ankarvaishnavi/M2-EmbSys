@@ -4,7 +4,7 @@
 
 ##  INTRODUCTION:
 
-- Washing machine provides extensive support in home automation applications. It mainy contains sensors, actuators, control unit and application specific user interfaces like keyboards, display units. LED’s for accepting user’s inputs and providing visual indications.
+- Washing machine provides extensive support in home automation applications. It mainy contains sensors, actuators, control unit and application specific user interfaces like keyboards, display units. LED’s for accepting user’s inputs and providing visual indications.In this washing machine 32 bit microcontroller is used.
 
 - These user interfaces are used to find and  giving inputs and outputs.
 - It contain sensors like water level sensors, temperature sensors, ph sensors, etc.
