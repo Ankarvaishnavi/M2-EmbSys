@@ -1,4 +1,4 @@
-## Case Study On Washing Machine
+# Case Study On Washing Machine
 
 ### Table of content
 1. About
@@ -20,18 +20,33 @@ A washing machine is a machine that washes dirty clothes. It contains a barrel i
 ## Features: 
 
 - Washing machine provides extensive support in home automation applications. It mainy contains sensors, actuators, control unit and application specific user interfaces like keyboards, display units. LED’s for accepting user’s inputs and providing visual indications.In this washing machine 32 bit microcontroller is used.
-
 - These user interfaces are used to find and  giving inputs and outputs.
 - It contain sensors like water level sensors, temperature sensors, ph sensors, etc.
-
 - Contains actuators like spin and agitators, control motor units. Actuators are the electric pulses that controls any particular devices. eg. Solenoid valves, agitatiors .
-
 - Embedded controllers for controlling the washing operations.
-
 - Sensors, actuators and I/O devices are interfaced to the I/P sub-system of embedded control unit.
 - Once you prepare a particular microcontroller for particular task then it cannot be used in any other applications. That means the microcontroller that is used in washing machine cannot be used in any other applications.
 
-### UML Diagram
+## 4W's and 1H
+
+#### WHAT
+- 32-bit microcontroller based washing machine
+#### WHO
+- People who wants to improve cleaning standards of clothes 
+#### WHY
+- It improves efficiency both domestically and commertially, saving time and labor required for cleaning of the clothes
+#### WHEN
+- When user wants to wash clothes
+#### WHERE
+- Home, hotels, laundry
+#### HOW
+- By implementating a user interface and functionalities to use it efficiently
+
+
+
+
+
+## UML Diagram
 ![UML](https://user-images.githubusercontent.com/93757351/154840281-45c67ba9-cd24-411d-b5d7-d5b80f4f3621.JPG)
 
 ### Block diagram of washing controller
