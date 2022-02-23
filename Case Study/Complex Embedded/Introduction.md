@@ -43,17 +43,42 @@ A washing machine is a machine that washes dirty clothes. It contains a barrel i
 - By implementating a user interface and functionalities to use it efficiently
 
 
+## Requirements
+
+### HIGH LEVEL REQUIREMENTS:
+
+| ID | High level requirements |  
+|-----------|:-----------:|  
+| HLR01 | It shall have controlled the level of water |  
+| HLR02 | It shall have turned on and off rotation |
+| HLR03 | It shall have doors locked during the process |
+| HLR04 | It shall be able to display the methods |
+| HLR05 | It shall have adjust the temperature |
 
 
+### LOW LEVEL REQUIREMENTS
+Various components can be used to achieve high level requirements stated above.
+| ID | Low level requirements |  
+|-----------|:-----------:|  
+| LLR01 | Water level sensors shall have detect the level |  
+| LLR02 | Agitators shall have turn on and off the device |
+| LLR03 | Proximity sensors shall verify that the door is closed |
+| LLR04 | LCD shall display the methods |
+| LLR05 | Temperature controller switch shall have sense and adjust the temperature |
+
+
+# Diagrams
 
 ## UML Diagram
+
 ![UML](https://user-images.githubusercontent.com/93757351/154840281-45c67ba9-cd24-411d-b5d7-d5b80f4f3621.JPG)
 
 ### Block diagram of washing controller
+
 ![Untitled Diagram (6)](https://user-images.githubusercontent.com/93757351/154830924-320d5f71-0366-4eb7-b7e6-9157d8710dff.jpg)
 
 
-## COMPONENTS
+## Components
 In this washing machine various components can be used. These components can be divided into different modules.
 Such as Main board, interface module, power and power unit module.
 #### Main Board:
