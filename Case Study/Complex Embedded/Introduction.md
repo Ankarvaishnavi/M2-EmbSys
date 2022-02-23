@@ -26,20 +26,30 @@
 In this washing machine various components can be used. These components can be divided into different modules.
 Such as Main board, interface module, power and power unit module.
 #### Main Board:
-##### A 32-bit microcontroller - Let's take STM32. It belongs to microcontroller ICs based on 32 bit RISC. It licences the ARM Processor IP. The ARM core design have numerious configurable options and ST chooses the individual configuration to use for each design.
-##### Input sensors - These sensors provides real-time monitoring and feedback to shorteen or improve some functions
-##### USB Module - All modules communicate using serial communication network. It enables fast connection of the sensors to the computer. It provides power from the PC to the sensors and communication between the PC and sensors
-##### RS485 Communication: RS485 defines the electrical interface and physical layer of communication of electrical device
-##### EEPROM (washing program) - It is electrically erasable programmable read only memory. It is user modifiable read only memory that can be erased and reprogrammed.
-##### Buzzer - The buzzer is used as an indicator for starting as well as stopping of washing cycle.
+##### A 32-bit microcontroller 
+- Let's take STM32. It belongs to microcontroller ICs based on 32 bit RISC. It licences the ARM Processor IP. The ARM core design have numerious configurable options and ST chooses the individual configuration to use for each design.
+##### Input sensors 
+- These sensors provides real-time monitoring and feedback to shorteen or improve some functions
+##### USB Module 
+- All modules communicate using serial communication network. It enables fast connection of the sensors to the computer. It provides power from the PC to the sensors and communication between the PC and sensors
+##### RS485 Communication: 
+- RS485 defines the electrical interface and physical layer of communication of electrical device
+##### EEPROM (washing program) 
+- It is electrically erasable programmable read only memory. It is user modifiable read only memory that can be erased and reprogrammed.
+##### Buzzer 
+- The buzzer is used as an indicator for starting as well as stopping of washing cycle.
 #### Interface section 
-##### There are two types of interfaces 1. Input 2. Output. It also can be common washing machine interface or also be a touch screen containing different options for program
+##### There are two types of interfaces 
+1. Input 
+2. Output.
+-  It also can be common washing machine interface or also be a touch screen containing different options for program
 #### Power driver 
-##### This module communicates with host controller using analog signalor one of typical serial bus. It controls the drive
-##### Motor module - The controller sends signals to motor to rotate.  
+- This module communicates with host controller using analog signalor one of typical serial bus. It controls the drive
+##### Motor module 
+- The controller sends signals to motor to rotate.  
 #### Power unit
-##### - Low voltage approximately 3.2V, 5V, 15V
-##### - High voltage 230 V
+- Low voltage approximately 3.2V, 5V, 15V
+- High voltage 230 V
 
 
 
