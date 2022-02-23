@@ -1,8 +1,23 @@
-## Washing Machine
-### Design
-![Untitled Diagram (5)](https://user-images.githubusercontent.com/93757351/154632060-719faf07-187a-46db-bcb7-1627fb29aa93.jpg)
+## Case Study On Washing Machine
 
-##  INTRODUCTION:
+### Table of content
+1. About
+    - Description
+    - Features
+    - 4W's and 1H
+    - SWOT analysis
+2. Requirements
+    - High level requirements
+    - Low level requirements
+3. Block diagram and description
+4. Application
+
+
+
+## Description:
+A washing machine is a machine that washes dirty clothes. It contains a barrel into which the clothes are placed. This barrel is filled with water, and then rotated very quickly to make the water remove dirt from the clothes.
+
+## Features: 
 
 - Washing machine provides extensive support in home automation applications. It mainy contains sensors, actuators, control unit and application specific user interfaces like keyboards, display units. LED’s for accepting user’s inputs and providing visual indications.In this washing machine 32 bit microcontroller is used.
 
@@ -15,6 +30,7 @@
 
 - Sensors, actuators and I/O devices are interfaced to the I/P sub-system of embedded control unit.
 - Once you prepare a particular microcontroller for particular task then it cannot be used in any other applications. That means the microcontroller that is used in washing machine cannot be used in any other applications.
+
 ### UML Diagram
 ![UML](https://user-images.githubusercontent.com/93757351/154840281-45c67ba9-cd24-411d-b5d7-d5b80f4f3621.JPG)
 
