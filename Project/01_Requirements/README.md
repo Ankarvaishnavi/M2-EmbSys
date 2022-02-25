@@ -74,5 +74,8 @@ This system also includes motor driver and potentiometer to control the speed of
 | ---| ----------- |
 | H03-LLR01 | Potentiometer shall detect the correct voltage |
 | H03-LLR02 | Speed of the motor shall decrease according to the information |   
+
+
+
     
 
