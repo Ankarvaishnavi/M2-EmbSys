@@ -1,6 +1,8 @@
 
 # Accident prevention system
 
+- This is the main folder of the project where all the files and details related to project are present.
+
 ## FOLDER STRUCTURE INSIDE PROJECT
 
 | Folder | Description |
