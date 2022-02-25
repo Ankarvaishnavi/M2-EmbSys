@@ -49,6 +49,30 @@ This system also includes motor driver and potentiometer to control the speed of
 - The following image represents analysis made on the project
 ![SWOT_Analsys](https://user-images.githubusercontent.com/93757351/155708877-995139e6-d04a-4e43-911b-97568ba8d3b1.JPG)
 
-    
+ 
+## REQUIREMENTS
+
+### High level requirement
+| ID | High level requirements |
+|----| ----------- |
+| HLR01 | It shall have detect the obstacle |
+| HLR02 | It shall have give alert signal to driver |
+| HLR03 | It shall control the speed according to the voltage |
+
+### Low level requirements
+| ID | Low level requirements for HLR01 |
+| --- |-----------------------------------|
+| H01-LLR01 | Ultrasonic sensor shall detect the object under the range of 5m |
+| H01-LLR02 | As the distance decrease the buzzer shall have beep more |
+
+| ID | Low level requirements for HLR02 |
+|--- | -------------------------- |
+| H02-LLR01 | Buzzer shall start buzzing as the object detected under 5m |
+| H02-LLR01 | As the distance of the obstacle decrease at 2.5 m the intensity of the buzzer shall increase |
+
+| ID | Low level requirement for HLR03 |
+| ---| ----------- |
+| H03-LLR01 | Potentiometer shall detect the correct voltage |
+| H03-LLR02 | Speed of the motor shall decrease according to the information |   
     
 
