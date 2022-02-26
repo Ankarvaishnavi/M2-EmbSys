@@ -57,7 +57,8 @@ This system also includes motor driver and potentiometer to control the speed of
 |----| ----------- |
 | HLR01 | It shall have detect the obstacle |
 | HLR02 | It shall have give alert signal to driver |
-| HLR03 | It shall control the speed according to the voltage |
+| HLR03 | It shall have display the distance between the obstacle and vehicle |
+| HLR04 | It shall control the speed according to the voltage |
 
 ### Low level requirements
 | ID | Low level requirements for HLR01 |
@@ -70,7 +71,12 @@ This system also includes motor driver and potentiometer to control the speed of
 | H02-LLR01 | Buzzer shall start buzzing as the object detected under 5m |
 | H02-LLR01 | As the distance of the obstacle decrease at 2.5 m the intensity of the buzzer shall increase |
 
-| ID | Low level requirement for HLR03 |
+| ID |  Low level requirements for HLR03|
+|--- | ---------------------- |
+| H03-LLR01 | LCD display shall display the value of distance on the screen |
+| H03-LLR02 | It shall display how far or near the object is |
+
+| ID | Low level requirement for HLR04 |
 | ---| ----------- |
 | H03-LLR01 | Potentiometer shall detect the correct voltage |
 | H03-LLR02 | Speed of the motor shall decrease according to the information |   
