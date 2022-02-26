@@ -4,11 +4,11 @@
 
 ![Untitled Diagram (10)](https://user-images.githubusercontent.com/93757351/155830445-e03d31f7-f88a-44f4-8ab6-47f5642201dd.jpg)
 
-***HIGH BLOCK DIAGRAM***
+***HIGH LEVEL BLOCK DIAGRAM***
 
 ![APS_Block diagram](https://user-images.githubusercontent.com/93757351/155698624-d690b5a2-77a3-46d5-9b59-7b185c4d2075.png)
 
-***LOW LEVEL DIAGRAM***
+***LOW LEVEL BLOCK DIAGRAM***
 
 ![Untitled Diagram (12)](https://user-images.githubusercontent.com/93757351/155831870-9184b4a5-3954-4da3-965a-1a0ab26f54e0.jpg)
 
