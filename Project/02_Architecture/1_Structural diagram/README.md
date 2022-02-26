@@ -1,12 +1,19 @@
 ### Structural diagram
 
-- BLOCK DIAGRAM
+***UML DIAGRAM***
+
+![Untitled Diagram (10)](https://user-images.githubusercontent.com/93757351/155830445-e03d31f7-f88a-44f4-8ab6-47f5642201dd.jpg)
+
+***HIGH BLOCK DIAGRAM***
 
 ![APS_Block diagram](https://user-images.githubusercontent.com/93757351/155698624-d690b5a2-77a3-46d5-9b59-7b185c4d2075.png)
 
-- UML DIAGRAM
+***LOW LEVEL DIAGRAM***
 
-![Untitled Diagram (10)](https://user-images.githubusercontent.com/93757351/155726091-f0118ec7-6fee-4062-833c-d494a5091716.jpg)
+![Untitled Diagram (11)](https://user-images.githubusercontent.com/93757351/155830464-59b6d9c6-6da0-4bf1-b79f-d1fb491065e3.jpg)
+
+
+
 
 ## Components description
 
