@@ -5,7 +5,7 @@
 3. Abstract
 4. 5W’s and 1H
 5. SWOT analysis
-6. Feature
+6. Future Scope
 7. Research 
 
 ## INTRODUCTION
@@ -49,6 +49,12 @@ This system also includes motor driver and potentiometer to control the speed of
 ### S.W.O.T Analysis
 - The following image represents analysis made on the project
 ![SWOT_Analsys](https://user-images.githubusercontent.com/93757351/155708877-995139e6-d04a-4e43-911b-97568ba8d3b1.JPG)
+
+### Future scope
+- GPS(Global Positioning System) and GSM(Globalization Management System) can be use. 
+- Both of these are useful after the accidents had happened as GPS is used to give information regarding the location
+- GSM is used for sending messages from the user mobile to indicate the authority that accident happened.
+
 
 
 ### Research
