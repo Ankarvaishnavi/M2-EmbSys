@@ -24,6 +24,10 @@ This is the brain of the system
 **Atmega328**
 - Here we used Atmega328, it supports 8-bit data processing. Atmega328 has 32KB internal flash memory and 1KB electrically
 - Erasable programmable read-only memory : If the electric supply supplied to the microcontroller is removed, even then it can store the data and can provides results after providing it with the electric supply.
+- It has 8 Pins for ADC operations, which all combine to form PortA (PA0 – PA7).
+- It also has 3 built-in Timers, two of them are 8 Bit timers while the third one is 16-Bit Time
+- It operates ranging from 3.3V to 5.5V but normally we use 5V as a standard.
+- Its excellent features include cost-efficiency, low power dissipation, programming lock for security purposes, real timer counter with separate oscillator.
 
 ***Sensor***
 
