@@ -6,6 +6,7 @@
 4. 5W’s and 1H
 5. SWOT analysis
 6. Feature
+7. Research 
 
 ## INTRODUCTION
 
@@ -48,6 +49,12 @@ This system also includes motor driver and potentiometer to control the speed of
 ### S.W.O.T Analysis
 - The following image represents analysis made on the project
 ![SWOT_Analsys](https://user-images.githubusercontent.com/93757351/155708877-995139e6-d04a-4e43-911b-97568ba8d3b1.JPG)
+
+
+### Research
+- Publisher Name: International Journal of engineering research and technology (IJERT)
+- ISSN: 2278-0181
+- Paper ID: IJERTV10IS050237
 
  
 ## REQUIREMENTS
