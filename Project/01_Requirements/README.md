@@ -26,13 +26,13 @@ In this proposed system I am trying to lower the number of accidence by giving t
 
 ### Abstract
 
-An accident is an undesirable event that occurs without warning and usually results in property damage or injuries. Accident Controller Using Microcontroller (ATmega328) is a way for preventing accidents by using ultrasonic sensors. Automatic and Manual driving modes are included in the proposed system. Sensors will be engaged in automatic mode, and depending on which sensor detects impediments, it will undertake the relevant task of turning, slowing down, and applying brakes. Sensors will be deactivated in manual mode, and the steering and braking systems will be controlled by the driver.
+- An accident is an undesirable event that occurs without warning and usually results in property damage or injuries. Accident Controller Using Microcontroller (ATmega328) is a way for preventing accidents by using ultrasonic sensors. Automatic and Manual driving modes are included in the proposed system. Sensors will be engaged in automatic mode, and depending on which sensor detects impediments, it will undertake the relevant task of turning, slowing down, and applying brakes. Sensors will be deactivated in manual mode, and the steering and braking systems will be controlled by the driver.
 
-The proposed system helps the drier to avoid the accidents by controlling the car on time. The accident prevention system includes ultrasonic wave emitter installed in front of the car producing and emitting the ultrasonic waves. It will also receive ultrasonic waves and gives the distance between the obstacle and car.
+- The proposed system helps the drier to avoid the accidents by controlling the car on time. The accident prevention system includes ultrasonic wave emitter installed in front of the car producing and emitting the ultrasonic waves. It will also receive ultrasonic waves and gives the distance between the obstacle and car.
 
-The micro-controller is used to operate in such a way that it can controls the speed of car based on the information detected.
+- The micro-controller is used to operate in such a way that it can controls the speed of car based on the information detected.
 
-In this system include ultrasonic sensors and buzzer is used as an input. These are used to receive the signals if any obstacle comes under the range and will give the alert signal to the driver so that driver can take necessary actions to avoid accidents.
+- In this system include ultrasonic sensors and buzzer is used as an input. These are used to receive the signals if any obstacle comes under the range and will give the alert signal to the driver so that driver can take necessary actions to avoid accidents.
 This system also includes motor driver and potentiometer to control the speed of the car.
 
 ### 5W’s and 1H
