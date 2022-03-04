@@ -1,5 +1,12 @@
 ### Structural diagram
 
+### Content
+1. UML Diagram
+2. High level diagram
+3. Low level diagram
+4. Components description
+
+
 ***UML DIAGRAM***
 
 ![Untitled Diagram (10)](https://user-images.githubusercontent.com/93757351/155830445-e03d31f7-f88a-44f4-8ab6-47f5642201dd.jpg)
