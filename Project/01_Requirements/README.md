@@ -3,11 +3,12 @@
 1. Problem statement
 2. Solution
 3. Abstract
-4. 5W’s and 1H
-5. SWOT analysis
-6. Future Scope
-7. Research 
-8. Referances
+4. Introduction about proposed system
+5. 5W’s and 1H
+6. SWOT analysis
+7. Future Scope
+8. Research 
+9. Referances
 
 # Requirements
 ## Content
@@ -28,12 +29,18 @@ In this proposed system I am trying to lower the number of accidence by giving t
 
 - An accident is an undesirable event that occurs without warning and usually results in property damage or injuries. Accident Controller Using Microcontroller (ATmega328) is a way for preventing accidents by using ultrasonic sensors. Automatic and Manual driving modes are included in the proposed system. Sensors will be engaged in automatic mode, and depending on which sensor detects impediments, it will undertake the relevant task of turning, slowing down, and applying brakes. Sensors will be deactivated in manual mode, and the steering and braking systems will be controlled by the driver.
 
-- The proposed system helps the drier to avoid the accidents by controlling the car on time. The accident prevention system includes ultrasonic wave emitter installed in front of the car producing and emitting the ultrasonic waves. It will also receive ultrasonic waves and gives the distance between the obstacle and car.
 
-- The micro-controller is used to operate in such a way that it can controls the speed of car based on the information detected.
 
-- In this system include ultrasonic sensors and buzzer is used as an input. These are used to receive the signals if any obstacle comes under the range and will give the alert signal to the driver so that driver can take necessary actions to avoid accidents.
-This system also includes motor driver and potentiometer to control the speed of the car.
+### Introducation about proposed syatem
+- Driving is a necessary action for the majority of people.
+- The number of vehicles on the road is growing by the day. Every year, hundreds of people are killed in highway accidents. Accidents can happen at any time and in any place, causing environmental damage or human violations and death. Most accidents occur as a result of a delay in applying brakes.
+- The proposed method is intended to advance a new system that can provide a solution to a problem. If the driver fails to apply the brakes manually, the car's speed can be reduced as a result of the sensors detecting obstacles.
+- By regulating the car in a timely manner, the proposed device assists the dryer in avoiding accidents. The ultrasonic wave emitter, which is situated in front of the car and produces and emits ultrasonic waves, is part of the accident prevention system. It will also receive ultrasonic vibrations, which will indicate the distance between the obstacle and the vehicle.
+
+- The microcontroller is programmed to operate in such a way that it can control the car's speed based on the data collected.
+
+- Ultrasonic sensors and a buzzer are employed as inputs in this system. These are used to receive signals if an obstacle enters the range and provide an alarm to the driver so that the driver may take the required precautions to avoid an accident.
+A motor is also included in this arrangement.
 
 ### 5W’s and 1H
 
