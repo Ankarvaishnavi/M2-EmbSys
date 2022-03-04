@@ -7,6 +7,7 @@
 5. SWOT analysis
 6. Future Scope
 7. Research 
+8. Referances
 
 ## INTRODUCTION
 
@@ -65,6 +66,17 @@ This system also includes motor driver and potentiometer to control the speed of
 - ISSN: 2278-0181
 - Paper ID: IJERTV10IS050237
 
+### Requirements
+- [1] Swetha I Hiremath, Shruti M Sampagoan Shubha
+D Ojanahalli, Santosh Bhajantri, Kaushik M,
+“Adaptive Cruise Control System for Two Wheelers
+to Avoid and Reduce Accidents”, pp. 92-99.
+
+- [2]Jessen Joseph Leo, R.Monisha, B.T.Tharani Sri
+Sakthi, A. John Clement Sunder, “Vehicle Movement
+Control and Accident Avoidance in Hilly Track”,
+International Conference on Electronics and
+Communication System JCECS -2014, pp. 1-5.
  
 ## REQUIREMENTS
 
