@@ -19,6 +19,9 @@
 In this proposed system I am trying to lower the number of accidence by giving the alert to the driver and decrease the speed of the vehicle.
 
 ### Abstract
+
+An accident is an undesirable event that occurs without warning and usually results in property damage or injuries. Accident Controller Using Microcontroller (ATmega328) is a way for preventing accidents by using ultrasonic sensors. Automatic and Manual driving modes are included in the proposed system. Sensors will be engaged in automatic mode, and depending on which sensor detects impediments, it will undertake the relevant task of turning, slowing down, and applying brakes. Sensors will be deactivated in manual mode, and the steering and braking systems will be controlled by the driver.
+
 The proposed system helps the drier to avoid the accidents by controlling the car on time. The accident prevention system includes ultrasonic wave emitter installed in front of the car producing and emitting the ultrasonic waves. It will also receive ultrasonic waves and gives the distance between the obstacle and car.
 
 The micro-controller is used to operate in such a way that it can controls the speed of car based on the information detected.
