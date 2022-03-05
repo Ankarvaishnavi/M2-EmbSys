@@ -16,7 +16,15 @@
 - The L293D is a popular 16-Pin Motor Driver IC. As the name suggests it is mainly used to drive motors. 
 - A single L293D IC is capable of running two DC motors at the same time; also the direction of these two motors can be controlled independently.
 
-### Potentiometer
+### Voltage source
 ![Potentiometer](https://user-images.githubusercontent.com/93757351/156767878-d09ead1b-9ada-4ae6-bed1-79ce01f37dc0.JPG)
+
+- This is a variable Voltage Source.
+- Voltage can be adjusted from 0V to max. voltage using the dial.
+- It can be turned On/Off with the buttton on the bottom side.
+- Button label shows voltage output value.
+
+### Potentiometer
+![image](https://user-images.githubusercontent.com/93757351/156871338-cf421eea-55d3-48a5-bf15-b0ba6d5ce8a8.png)
 
 - When used to vary voltage, a potentiometer can be connected to a motor and vary the voltage and therefore power delivered to a motor which will control its speed.
