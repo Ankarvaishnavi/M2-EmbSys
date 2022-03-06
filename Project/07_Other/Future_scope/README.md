@@ -17,3 +17,56 @@ The Ultrasonic sensors are the system's eyes, and they are less expensive and re
 2. Arduinonano 
 3. 3/2Solenoid valve 
 4. Single acting pneumatic cylinde
+
+### Ultrasonic sensor
+
+![image](https://user-images.githubusercontent.com/93757351/156927400-b3a734b4-8c47-4828-aa39-64f74ae8cf56.png)
+
+- The ultrasonic sensor detects an obstruction in the direction of movement and sends a control signal to the microcontroller. 
+- It serves as the control unit's eyes. 
+- The HC-SR04 Ultrasonic Sensor is a low-cost proximity or distance sensor that has been utilised in a variety of robotics applications for obstacle avoidance. 
+- It essentially gives your Arduino special awareness and sight. It comprises of two connecting terminals, T and R, where T stands for wave transmission and R for wave reception.
+
+### Arduino Nano
+
+![image](https://user-images.githubusercontent.com/93757351/156927473-9f149533-8058-40dd-8158-eca09e81ae42.png)
+
+- Arduino Nano  is one  of the easiest and most commonly used microcontrollers.
+- Arduinonano  is  user  friendly  type  of microcontroller  for  the  beginners  and  also  for coding/programming.  
+- There  are  many  other microcontrollers which are being used for different purposes are per required. 
+
+### Solenoid valve
+
+![image](https://user-images.githubusercontent.com/93757351/156927523-fcb96082-7f6b-4697-a63e-406a6dd7013f.png)
+
+- A solenoid valve is an electromechanically operated valve that is controlled by an electric current. In the case of a two-port valve, the flow is switched on or off, while in the case of a three-port valve, the outflow is switched between the two outlet ports. 
+- It has the ability to operate both manually and automatically.
+- Solenoid valves are the most commonly used fluid and pneumatic control elements. Their responsibilities include turning off, releasing, dosing, distributing, and mixing fluids.
+
+### Single Acting cylinder
+
+![image](https://user-images.githubusercontent.com/93757351/156927716-1e95df2b-8679-4d00-8fe9-80df10b4cd2d.png)
+
+- A single-acting pneumatic cylinder is a mechanical device that uses compressed air to actuate the piston and reciprocates in a straight line.
+- In most types of reciprocating engines, single-acting cylinders are used. Pneumatic cylinders are employed in most technical applications since they are clean and take up less space.
+
+## Circuit
+- The system consist of two ultrasonic sensors, kit of electronic control unit(microcontrollers, relays)  to give  input  and  output  for  sensor  and  Pneumatic circuit.
+- The sensor  is  having  12volt  supply  and  can  measure hurdle up to 5m. 
+- Consider a vehicle that is constantly travelling at 30 km/h, and when an accident occurs due to a variety of factors such as driver negligence, or in the worst-case scenario, the driver has fallen asleep and the vehicle is approaching an obstacle at the same speed, the role of a smart braking system comes into play.
+
+## Working
+- The ultrasonic sensor detects obstacles in the vehicle's route and provides continuous input to the microcontroller.
+- The microcontroller, which has been programmed specifically for the vehicle on which it is used.
+- Now the microcontroller sends a signal to the brake actuation system, which regulates the braking system to lessen the vehicle's speed or bring it to a complete stop to avoid accidents.
+- The braking system consists of brakes (disc brakes or drum brakes) that must be actuated manually by the driver as well as automatically by the smart braking system using solenoids.
+- Solenoids are electromechanically actuated valves that open and close when electrical energy is applied to them. When the ultrasonic sensor detects an obstacle, the solenoid is powered by a 12v relay and the pneumatic cylinder is actuated.
+- The designed smart braking system includes braking constraints, which instruct the vehicle when it needs to stop automatically by sensing the range or distance of an obstacle while driving.
+
+## Conclusion
+The following are some of the smart braking system conclusions that can be drawn utilising ultrasonic sensors:
+- The Arduino nano microcontroller is simple to use and assists beginning mechanical engineers in providing better coding/programming for automatic braking systems.
+- Ultrasonic sensors are less expensive than other sensors and have a greater sensing range of up to 5 metres.
+- The pneumatic actuation system used is lighter and more compact, and it provides better actuation than the hydraulic actuation system.
+- The smart braking system makes a decision based on microcontroller inputs and automatically applies the brakes and controls the car in the event of a dangerous accident. As a result, putting this system in place can help to lessen the risk of close-call incidents.
+- It can also be concluded that the current project work is not exhaustive because it can be expanded by using different range sensors and actuating mechanisms. For engineers, current paper work becomes a ready reckoner in future project development.
