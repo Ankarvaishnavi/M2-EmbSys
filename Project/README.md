@@ -1,8 +1,8 @@
 
 # Accident prevention system
-- In this project I'am using simulIDE as a simulator
+- As a simulator, I'm using simulIDE in this project.
 
-- This is the main folder of the project where all the files and details related to project are present.
+- This is the project's main folder, which contains all of the project's files and details.
 
 ## FOLDER STRUCTURE INSIDE PROJECT
 
