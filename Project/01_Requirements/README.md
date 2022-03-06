@@ -78,7 +78,7 @@ A motor is also included in this arrangement.
 - ISSN: 2278-0181
 - Paper ID: IJERTV10IS050237
 
-### Requirements
+### Referances
 - [1] Swetha I Hiremath, Shruti M Sampagoan Shubha
 D Ojanahalli, Santosh Bhajantri, Kaushik M,
 “Adaptive Cruise Control System for Two Wheelers
