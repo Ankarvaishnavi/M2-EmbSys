@@ -70,3 +70,9 @@ The following are some of the smart braking system conclusions that can be drawn
 - The pneumatic actuation system used is lighter and more compact, and it provides better actuation than the hydraulic actuation system.
 - The smart braking system makes a decision based on microcontroller inputs and automatically applies the brakes and controls the car in the event of a dangerous accident. As a result, putting this system in place can help to lessen the risk of close-call incidents.
 - It can also be concluded that the current project work is not exhaustive because it can be expanded by using different range sensors and actuating mechanisms. For engineers, current paper work becomes a ready reckoner in future project development.
+
+## Referances
+
+- G.V.Sairam,  B.Suresh,  CH.SaiHemanth  and K.KrishnaSai,“Intelligent  mechatronic  braking system”,  International  Journal  of  Emerging Technology  and  Advanced  Engineering,  ISSN 2250-2459,  ISO  9001:2008  Certified  Journal, Volume 3,Issue 4, April 13
+- NishadVivekKumbhojkar&ChaitanyaAvadhutchintanKuber  Ultrasonic  Automatic Braking System  For  Forward  Collision  Avoidance  With Accelerator  Pedal  Disengagement Mechanism,International  journal  &  magazine  of engineering, technology, management and research registrar of Newspapers  of India(RNI) Regd  No: APENG/2011/47294 
+
