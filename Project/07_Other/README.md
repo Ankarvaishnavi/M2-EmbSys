@@ -1,2 +1,2 @@
 - This folder contains file about future scope 
-- Please find future
+- Please find future_scope.md file for details
