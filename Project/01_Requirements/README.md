@@ -110,8 +110,8 @@ Communication System JCECS -2014, pp. 1-5.
 
 | ID | Low level requirements for HLR02 |
 |--- | -------------------------- |
-| H02-LLR01 | Buzzer shall start buzzing as the object detected under 5m |
-| H02-LLR01 | As the distance of the obstacle decrease at 2.5 m the intensity of the buzzer shall increase |
+| H02-LLR01 | Buzzer shall start buzzing as the object detected under 1m |
+| H02-LLR01 | As the distance of the obstacle decrease at 0.25 m the intensity of the buzzer shall increase |
 
 | ID |  Low level requirements for HLR03|
 |--- | ---------------------- |
