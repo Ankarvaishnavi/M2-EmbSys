@@ -14,3 +14,5 @@
 | 04_TestPlanAndOutput |Documents with test plan and output |
 | 05_Report | Generated report files |
 | 06_ImagesAndVideos | Images and videos files are attached |
+| 07_Other | Future scope document is here |
+| 08_Output | Simulation, presentation is here |
