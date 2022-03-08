@@ -17,8 +17,9 @@ Module 2
 | 08_Output | Simulation file, video of presentation is here |
 
 ## BADGES
-| Codacy | [![Codacy Security Scan](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml/badge.svg)](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml) |
+| Lable | Badge |
 | ------ | ------ |
+| Codacy | [![Codacy Security Scan](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml/badge.svg)](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml) |
 | code quality from codiga | ![codiga](https://api.codiga.io/project/31678/score/svg) |
 | Code Grade | ![Code Grade](https://api.codiga.io/project/31678/status/svg) |
 
