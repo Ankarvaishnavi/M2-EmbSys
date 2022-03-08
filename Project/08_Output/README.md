@@ -1,4 +1,4 @@
-# This foldercontains the implementation video and images
+# This folder contains the implementation video and images
 
 ## Code explaination
 
