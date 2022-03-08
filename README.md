@@ -19,7 +19,8 @@ Module 2
 ## BADGES
 | Lable | Badge |
 | ------ | ------ |
-| Codacy | [![Codacy Security Scan](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml/badge.svg)](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml) |
+| Codacy security scan | [![Codacy Security Scan](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml/badge.svg)](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml) |
 | code quality from codiga | ![codiga](https://api.codiga.io/project/31678/score/svg) |
 | Code Grade | ![Code Grade](https://api.codiga.io/project/31678/status/svg) |
+| Codacy | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f76868264c61414bb23bf2e863247264)](https://www.codacy.com/gh/Ankarvaishnavi/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ankarvaishnavi/M2-EmbSys&amp;utm_campaign=Badge_Grade) |
 
