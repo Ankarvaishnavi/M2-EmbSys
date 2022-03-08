@@ -1,2 +1,6 @@
-- Please check code file folder for code.
-- Please check hex and elf file folder for respective files.
+- Program and related files are present in this folder
+
+| Folder | Description |
+| ------ | ----------- |
+| Code | Contains program file |
+| Hex and elf file
