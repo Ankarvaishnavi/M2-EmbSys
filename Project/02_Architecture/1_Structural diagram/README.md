@@ -1,3 +1,4 @@
+- Please file simulIDE.md file for description of components used in simulation
 ### Structural diagram
 
 ### Content
