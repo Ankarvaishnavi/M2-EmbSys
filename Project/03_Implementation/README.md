@@ -2,5 +2,5 @@
 
 | Folder | Description |
 | ------ | ----------- |
-| Code | Contains program file |
-| Hex and elf file
+| Code file | Contains program file |
+| Hex and elf file | Contains hex and elf file |
