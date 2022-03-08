@@ -15,7 +15,7 @@
 | 05_Report | Generated report files |
 | 06_ImagesAndVideos | Images and videos files are attached |
 | 07_Other | Future scope document is here |
-| 08_Output | Simulation, presentation is here |
+| 08_Output | Simulation file, video of presentation is here |
 
 ## BADGES
 | Codacy | [![Codacy Security Scan](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml/badge.svg)](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml) |
