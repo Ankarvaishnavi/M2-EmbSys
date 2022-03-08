@@ -1,5 +1,8 @@
 # This folder contains the implementation video and images
 
+## Circuit of project
+![Simulation circuit](https://user-images.githubusercontent.com/93757351/157290469-5f270080-b446-4ebc-b555-86530085caaa.JPG)
+
 ## Code explaination
 
 
