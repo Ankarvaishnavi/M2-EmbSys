@@ -20,3 +20,11 @@
 ## BADGES
 | Codacy | [![Codacy Security Scan](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml/badge.svg)](https://github.com/Ankarvaishnavi/M2-EmbSys/actions/workflows/codacy.yml) |
 | ------ | ------ |
+
+
+
+## Simulation video
+
+
+https://user-images.githubusercontent.com/93757351/157211928-c8b2e142-4062-4930-bd5a-c3d935c63886.mp4
+
